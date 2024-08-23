@@ -21,7 +21,7 @@ I'm a passionate IT student at Manuel S. Enverga University Foundation, speciali
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [My LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ron-vincent-cada-a939282a7/))
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ron-vincent-cada-a939282a7/)
 - Email: cronvincent@gmail.com
 
 ## ⚡ Fun Fact
