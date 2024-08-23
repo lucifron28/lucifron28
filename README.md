@@ -13,7 +13,7 @@ I'm a passionate IT student at Manuel S. Enverga University Foundation, speciali
 - **Backend Development**: I'm honing my skills in building robust backend systems using Python, Flask, and exploring PHP.
 - **Cybersecurity**: I enjoy participating in CTF competitions and staying updated on the latest security trends.
 - **Web Development**: I've been working on various projects involving **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
-- **Networking**: I'm been interested on how to build and manage secure, scalable networks.
+- **Networking**: I'm currently learning on how to build and manage secure, scalable networks.
 
 ## 📈 GitHub Stats
 
