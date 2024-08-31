@@ -16,7 +16,7 @@ I'm a passionate IT student at Manuel S. Enverga University Foundation, speciali
 - **Networking**: I'm currently learning on how to build and manage secure, scalable networks.
 
 ## 📈 GitHub Stats
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucifron28)](https://git.io/streak-stats)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucifron28&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
