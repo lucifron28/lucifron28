@@ -51,7 +51,7 @@
 ## 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucifron28&theme=github-dark&hide_border=true)](https://git.io/streak-stats) <br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucifron28&show_icons=true&theme=radical) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=6&exclude_repo=Python_Keylogger,Agriculture-websites)
 
 ## 📫 How to Reach Me
 
