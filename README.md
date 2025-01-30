@@ -4,6 +4,8 @@
 
 ![Ron Vincent Cada's card name](https://cardivo.vercel.app/api?name=Ron%20%Vincent%20Cada&description=2nd%20year%20IT%20student%20at%20Manuel%20S.%20Enverga%20University%20Foundation%20specializing%20in%20Web%20and%20Mobile%20Application%20Development.%20I%20have%20a%20strong%20foundation%20in%20Python%20and%20C%20with%20an%20interest%20in%20backend%20development%20cybersecurity%20and%20networking.&image=https://github.com/lucifron28/lucifron28/blob/main/rcada.jpeg?raw=true&backgroundColor=%23ffffff&instagram=lucifron._&linkedin=Ron%20Vincent%20Cada&github=lucifron28)
 
+[![committers.top badge](https://user-badge.committers.top/philippines/lucifron28.svg)](https://user-badge.committers.top/philippines/lucifron28)
+
 ![](https://komarev.com/ghpvc/?username=lucifron28&color=blueviolet)
 
 ## 💻 What I'm Working On
