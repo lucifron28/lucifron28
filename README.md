@@ -10,14 +10,12 @@
 
 ## 💻 What I'm Working On
 
-- 🌱 Currently deepening my knowledge in **SQL**, **JavaScript**, and **Flask**.
-- 📚 Currently doing CS50 web course.
-- 💡 Planning my upcoming **capstone project** focused on solving issues in local health centers.
+- CS50 Web course - (In progress).
+- Coursera Meta Backend Developer Specialization - (In progress).
 
 ## 🌟 My Interests
 
-- **Backend Development**: I'm honing my skills in building robust backend systems using Python, Flask, and exploring PHP.
-- **Cybersecurity**: I enjoy participating in CTF competitions and staying updated on the latest security trends.
+- **Backend Development**: I'm honing my skills in building robust backend systems using Python, Flask, and currently learning Django.
 - **Web Development**: I've been working on various projects involving **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
 - **Networking**: I'm currently learning on how to build and manage secure, scalable networks.
 
@@ -66,4 +64,4 @@
 
 ## ⚡ Fun Fact
 
-I started programming in August 2023, and within a few months, I completed CS50 Python, participated in a virtual coding competition, and have been building my skills ever since! I'm also part of my university's **karate team** 🥋, and I love spending my free time reading, learning, and chess.
+I started programming in August 2023, and within a few months, I completed CS50 Python, participated in a virtual coding competition, and have been building my skills ever since! I'm also part of my university's **karate team** 🥋, and I love spending my free time reading books, learning new programming concepts, and playing chess.
