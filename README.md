@@ -2,9 +2,26 @@
 
 ![Ron Vincent Cada's card name](https://cardivo.vercel.app/api?name=Ron%20%Vincent%20Cada&description=2nd%20year%20IT%20student%20at%20Manuel%20S.%20Enverga%20University%20Foundation%20specializing%20in%20Web%20and%20Mobile%20Application%20Development.%20I%20have%20a%20strong%20foundation%20in%20Python%20and%20C%20with%20an%20interest%20in%20backend%20development%20cybersecurity%20and%20networking.&image=https://github.com/lucifron28/lucifron28/blob/main/rcada.jpeg?raw=true&backgroundColor=%23ffffff&instagram=lucifron._&linkedin=Ron%20Vincent%20Cada&github=lucifron28)
 
-[![committers.top badge](https://user-badge.committers.top/philippines/lucifron28.svg)](https://user-badge.committers.top/philippines/lucifron28)
+<div align="center">
+  <h3>🌟 Developer Badges</h3>
+  <a href="https://user-badge.committers.top/philippines/lucifron28">
+    <img 
+      src="https://user-badge.committers.top/philippines/lucifron28.svg" 
+      alt="committers.top badge" 
+      width="280" 
+      height="40" 
+      style="margin-right: 15px;" 
+    />
+  </a>
+  <img 
+    src="https://komarev.com/ghpvc/?username=lucifron28&color=blueviolet" 
+    alt="Profile Views" 
+    width="220" 
+    height="40" 
+  />
+</div>
 
-![](https://komarev.com/ghpvc/?username=lucifron28&color=blueviolet)
+
 
 ## 🛠️ Tech Stack
 
@@ -79,11 +96,36 @@
 ###
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=lucifron28&theme=highcontrast" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lucifron28&show_icons=true&theme=radical&include_all_commits=false" />
-  <img width="30%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=6&exclude_repo=Python_Keylogger,Agriculture-websites" />
-</div>
+<h3 align="center">
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img 
+          src="https://github-readme-streak-stats-six-blush.vercel.app?user=lucifron28&theme=highcontrast" 
+          alt="GitHub Streak" 
+          width="400"
+        />
+      </a><br />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=lucifron28&show_icons=true&theme=radical&include_all_commits=false" 
+        alt="GitHub Stats" 
+        width="400"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=6&exclude_repo=Python_Keylogger,Agriculture-websites" 
+        alt="Top Languages" 
+        width="300" 
+        height="auto"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
