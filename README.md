@@ -38,12 +38,12 @@
       />
     </td>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=6&exclude_repo=Python_Keylogger,Agriculture-websites" 
-        alt="Top Languages" 
-        width="300" 
-        height="auto"
-      />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=6&exclude_repo=Python_Keylogger&hide=HTML,CSS" 
+      alt="Top Languages" 
+      width="300" 
+      height="auto"
+    />
     </td>
   </tr>
 </table>
