@@ -19,8 +19,6 @@
     height="40" 
   />
 </div>
-
-<h2 align="center">GitHub Stats📈</h2>
 <table align="center" border="0">
   <tr>
     <td>
