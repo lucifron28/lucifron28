@@ -3,7 +3,6 @@
 )
 
 <div align="center">
-  <h3>🌟 Developer Badges</h3>
   <a href="https://user-badge.committers.top/philippines/lucifron28">
     <img 
       src="https://user-badge.committers.top/philippines/lucifron28.svg" 
@@ -21,7 +20,7 @@
   />
 </div>
 
-<h3 align="center">GitHub Stats📈<h3/>
+<h2 align="center">GitHub Stats📈</h2>
 <table align="center" border="0">
   <tr>
     <td>
@@ -50,9 +49,7 @@
 </table>
 
 
-<div align="center">
-<h2>🛠️ Tech Stack</h2>
-  
+<h2 align="center">🛠️ Tech Stack</h2>
 <h3>💻 Programming Languages</h3>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -128,5 +125,4 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004c99?style=for-the-badge&logo=nmap&logoColor=white)
-<div/>
 
