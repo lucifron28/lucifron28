@@ -24,7 +24,7 @@
     <td>
       <a href="https://git.io/streak-stats">
         <img 
-          src="https://github-readme-streak-stats-six-blush.vercel.app?user=lucifron28&theme=highcontrast" 
+          src="https://streak-stats.demolab.com/?user=lucifron28&theme=highcontrast" 
           alt="GitHub Streak" 
           width="400"
         />
