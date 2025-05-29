@@ -46,8 +46,8 @@
   </tr>
 </table>
 
-
-<h2 align="center">🛠️ Tech Stack</h2>
+<details>
+<summary><b>🛠️ Tech Stack (Click to expand)</b></summary>
 <h3>💻 Programming Languages</h3>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -123,4 +123,4 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004c99?style=for-the-badge&logo=nmap&logoColor=white)
-
+</details>
