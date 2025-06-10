@@ -45,6 +45,9 @@
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucifron28&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
 <details>
 <summary><b>🛠️ Tech Stack (Click to expand)</b></summary>
