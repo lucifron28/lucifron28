@@ -37,7 +37,7 @@
     </td>
     <td>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=6&exclude_repo=Python_Keylogger&hide=HTML,CSS" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=6&exclude_repo=Python_Keylogger&hide=HTML,CSS,lua" 
       alt="Top Languages" 
       width="300" 
       height="auto"
