@@ -30,14 +30,14 @@
         />
       </a><br />
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=lucifron28&show_icons=true&theme=radical&include_all_commits=false" 
+        src="https://github-readme-stats.vercel.app/api?username=lucifron28&show_icons=true&theme=highcontrast&include_all_commits=false" 
         alt="GitHub Stats" 
         width="400"
       />
     </td>
     <td>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=tokyonight&langs_count=7&exclude_repo=Python_Keylogger&hide=HTML,CSS" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=highcontrast&langs_count=7&exclude_repo=Python_Keylogger&hide=HTML,CSS" 
       alt="Top Languages" 
       width="300" 
       height="auto"
