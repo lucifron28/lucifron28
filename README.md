@@ -7,8 +7,7 @@
     <img 
       src="https://user-badge.committers.top/philippines/lucifron28.svg" 
       alt="committers.top badge" 
-      width="280" 
-      height="40" 
+      width="600" 
       style="margin-right: 15px;" 
     />
   </a>
