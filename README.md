@@ -1,10 +1,39 @@
 # Ron Vincent Cada
 
-Backend-focused BSIT student building APIs, full-stack systems, and mobile applications, with experience in agentic software development using OpenAI Codex.
+BSIT student and software developer focused on backend engineering, with experience building full-stack web and Android applications and using agentic development tools such as OpenAI Codex and Google Antigravity.
 
-**Current focus:** C# · ASP.NET Core · Python · Django REST Framework · PostgreSQL · SQL Server · Docker
+I enjoy working on the parts of software that make systems reliable and useful, including APIs, databases, business logic, authentication, and the workflows that connect everything together.
 
-Also works with React, TypeScript, Kotlin/Jetpack Compose, Flutter, Supabase, and Firebase.
+## Tech Stack
+
+**Backend & Databases**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+**Agentic Development**
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ## Selected Projects
 
@@ -17,9 +46,6 @@ Also works with React, TypeScript, Kotlin/Jetpack Compose, Flutter, Supabase, an
 
 Backend engineering · C# · Database internals · Computer science fundamentals · Agentic software engineering
 
-## Links
-
-[Portfolio](https://ron-cada-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ron-vincent-cada/) · [Email](mailto:cronvincent@gmail.com)
 ## GitHub Activity
 
 <table align="center">
@@ -55,3 +81,7 @@ Backend engineering · C# · Database internals · Computer science fundamentals
     width="35%"
   />
 </p>
+
+## Links
+
+[Portfolio](https://ron-cada-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ron-vincent-cada/) · [Email](mailto:cronvincent@gmail.com)
