@@ -1,18 +1,25 @@
 # Ron Vincent Cada
 
-Backend-focused BSIT student building APIs, workflow systems, Android applications, and AI-assisted features.
+Backend-focused BSIT student building APIs, full-stack systems, and mobile applications, with experience in agentic software development using OpenAI Codex.
 
 **Current focus:** C# · ASP.NET Core · Python · Django REST Framework · PostgreSQL · SQL Server · Docker
 
-I also work with React, Kotlin/Jetpack Compose, Flutter, Supabase, and Firebase when the project calls for them.
+Also works with React, TypeScript, Kotlin/Jetpack Compose, Flutter, Supabase, and Firebase.
 
 ## Selected Projects
 
-- **[UniPM](https://github.com/lucifron28/UniPM)** - ASP.NET Core preventive-maintenance system with policy-based authorization, SQL Server, and source-bounded maintenance-history retrieval.
-- **[StudyLens](https://github.com/lucifron28/StudyLens)** - Native Android study app backed by Django REST Framework and PostgreSQL, with CameraX/ML Kit OCR and server-side AI features.
-- **[Enverga Arena](https://github.com/lucifron28/EnvergaArena)** - Django REST Framework athletics system with verified tryout workflows, rate limiting, role-based access, and reviewed AI recap publishing.
-- **[FlowTrack](https://github.com/lucifron28/FlowTrack)** - Offline-first Flutter app for sari-sari store sales, inventory, credit, reports, barcode workflows, and encrypted local backups.
+- **[UniPM](https://github.com/lucifron28/UniPM)** — Web and mobile preventive maintenance system with offline-capable inspections, role-based workflows, and natural-language analytics.
+- **[StudyLens](https://github.com/lucifron28/StudyLens)** — Native Android learning companion with OCR and backend-integrated AI study tools.
+- **[Enverga Arena](https://github.com/lucifron28/EnvergaArena)** — University athletics management system with verified tryouts, results management, and reviewed AI recaps.
+- **[FlowTrack](https://github.com/lucifron28/FlowTrack)** — Offline-first Flutter app for store sales, inventory, credit tracking, and reporting.
 
+## Currently Learning
+
+Backend engineering · C# · Database internals · Computer science fundamentals · Agentic software engineering
+
+## Links
+
+[Portfolio](https://ron-cada-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ron-vincent-cada/) · [Email](mailto:cronvincent@gmail.com)
 ## GitHub Activity
 
 <table align="center">
@@ -48,9 +55,3 @@ I also work with React, Kotlin/Jetpack Compose, Flutter, Supabase, and Firebase 
     width="35%"
   />
 </p>
-
-## Links
-
-[Portfolio](https://ron-cada-portfolio.vercel.app) ·
-[LinkedIn](https://www.linkedin.com/in/ron-vincent-cada/) ·
-[Email](mailto:cronvincent@gmail.com)
