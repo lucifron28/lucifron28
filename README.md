@@ -2,7 +2,7 @@
 
 BSIT student and software developer focused on backend engineering, with experience building full-stack web and Android applications and using agentic development tools such as OpenAI Codex and Google Antigravity.
 
-I enjoy working on the parts of software that make systems reliable and useful, including APIs, databases, business logic, authentication, and the workflows that connect everything together.
+I enjoy working with APIs, databases, business logic, authentication, and the workflows that connect everything together.
 
 ## Tech Stack
 
