@@ -35,13 +35,6 @@ I enjoy working with APIs, databases, business logic, authentication, and the wo
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 
-## Selected Projects
-
-- **[UniPM](https://github.com/lucifron28/UniPM)** — Web and mobile preventive maintenance system with offline-capable inspections, role-based workflows, and natural-language analytics.
-- **[StudyLens](https://github.com/lucifron28/StudyLens)** — Native Android learning companion with OCR and backend-integrated AI study tools.
-- **[Enverga Arena](https://github.com/lucifron28/EnvergaArena)** — University athletics management system with verified tryouts, results management, and reviewed AI recaps.
-- **[FlowTrack](https://github.com/lucifron28/FlowTrack)** — Offline-first Flutter app for store sales, inventory, credit tracking, and reporting.
-
 ## Currently Learning
 
 Backend engineering · C# · Database internals · Computer science fundamentals · Agentic software engineering
@@ -81,7 +74,3 @@ Backend engineering · C# · Database internals · Computer science fundamentals
     width="35%"
   />
 </p>
-
-## Links
-
-[Portfolio](https://ron-cada-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ron-vincent-cada/) · [Email](mailto:cronvincent@gmail.com)
